@@ -16,4 +16,4 @@ Contains some popular questions based on *bit manipulations*.
 
 | 			Topic/Question			                                            |	Code in Python                              | Code in C++ |
 |-----------------------------------|:------------------:|:-----------------:|
-|Check whether a given number n is a power of 2 or 0                            |[py](Bit_Manipulation/Check_Power2.py)         |[cpp]
+|Check whether a given number n is a power of 2 or 0                            |[py](Bit_Manipulation/Check_Pow_2.py .py)         |[cpp]
