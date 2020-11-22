@@ -26,6 +26,7 @@ Contains some popular questions based on *dynamic programming approach*.
 | 			Topic/Question			                                            |	Code in Python                              | Code in C++ |
 |-----------------------------------|:------------------:|:-----------------:|
 |	0-1 Knapsack Problem			                                                                                    |[py] | [cpp] |
+| minimum number of edits (operations) required to convert ‘str1’ into ‘str2’                                   |[py] | [cpp] |
 ------------------------------------------------------------------------------
 
 
