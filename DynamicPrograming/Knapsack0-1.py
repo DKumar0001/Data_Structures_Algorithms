@@ -1,5 +1,5 @@
 #Knapsack bag weight capacity = w
-# Number of items each having wights and Profit = n
+# Number of items each having wights and Profit = num_items
 # Weight of item = w1,w2.........wn
 # Profit (Margin) of each item = P1,P2.......Pn
 # We have to collect the obects with maximizing marign
