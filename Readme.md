@@ -27,3 +27,56 @@ Contains some popular questions based on *dynamic programming approach*.
 |-----------------------------------|:------------------:|:-----------------:|
 |	0-1 Knapsack Problem			                                                                                    |[py] | [cpp] |
 ------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+### Graph
+
+Contains implementation of Graph data structure and some common questions and algorithms related to it.
+
+| 			Topic/Question			                                            |	Code in Python                              | Code in C++ |
+|-----------------------------------|:------------------:|:-----------------:|
+
+
+
+------------------------------------------------------------------------------
+### Heaps
+
+Contains implementation of Heap data structure and some common questions and algorithms related to it.
+
+| 			Topic/Question			                                            |	Code in Python                              | Code in C++ |
+|-----------------------------------|:------------------:|:-----------------:|
+|	Heap Sort algorithm                                                                         |[py](Heaps/HeapSort.py)|[-](Heaps/HeapSort.cpp)|
+
+------------------------------------------------------------------------------
+### Linked List
+
+Contains implementation of Linked List data structure and some common questions and algorithms related to it.
+
+##### Singly Linked List
+
+| 			Topic/Question			                                            |	Code in Python                              | Code in C++ |
+|-----------------------------------|:------------------:|:-----------------:|
+
+------------------------------------------------------------------------------
+### Mathematics
+
+Contains implementation of some common questions and algorithms related to Mathematics.
+
+
+------------------------------------------------------------------------------
+### Matrix
+
+Contains some common algorithms and questions based on *Matrix*.
+
+| 			Topic/Question			                                            |	Code in Python                              | Code in C++ |
+|-----------------------------------|:------------------:|:-----------------:|
+
+
+------------------------------------------------------------------------------
+### Misc
+
+Contains some miscellaneous questions and algorithms.
+
+| 			Topic/Question			                                            |	Code in Python                              | Code in C++ |
+|-----------------------------------|:------------------:|:-----------------:|
