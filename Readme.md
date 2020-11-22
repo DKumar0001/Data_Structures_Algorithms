@@ -18,3 +18,12 @@ Contains some popular questions based on *bit manipulations*.
 |-----------------------------------|:------------------:|:-----------------:|
 |Check whether a given number n is a power of 2 or 0                            |[py](Bit_Manipulation/Check_Power2.py)         |[cpp](Bit_Manipulation/Check_Power2.cpp)
 |Count number of bits needed to be flipped to convert A to B                    |[py](Bit_Manipulation//Count_bitFlips.py)         |[cpp](Bit_Manipulation/Cout_bitFlips.cpp)
+------------------------------------------------------------------------------
+### Dynamic Programming
+
+Contains some popular questions based on *dynamic programming approach*. 
+
+| 			Topic/Question			                                            |	Code in Python                              | Code in C++ |
+|-----------------------------------|:------------------:|:-----------------:|
+|	0-1 Knapsack Problem			                                                                                    |[py] | [cpp] |
+------------------------------------------------------------------------------
