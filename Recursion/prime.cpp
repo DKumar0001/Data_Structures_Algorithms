@@ -15,8 +15,9 @@ bool prime(int num){
     for (int i = 2; i < num/2; i++){
     if (num % i == 0){
       var = false;
-      break;}
+      break;
     }
+   }
   }
    return var;
 }
@@ -25,8 +26,8 @@ int main(){
 int num ;
   cout<<"Enter a number"<<endl;;
   cin >> num;
-bool  var =prime(num);
-switch(var){
+  bool  var =prime(num);
+  switch(var){
     case true:
     cout<<"Number is prime"<<endl;
     break;
