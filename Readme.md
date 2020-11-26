@@ -75,7 +75,7 @@ Contains some common algorithms and questions based on *Matrix*.
 
 
 ------------------------------------------------------------------------------
-### Misc
+### Hacker_Rank
 
 Contains some miscellaneous questions and algorithms.
 
