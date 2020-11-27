@@ -20,10 +20,6 @@ def knapsack_calculator(bag_size, weights, profits, num_items):
         print(w)
     return k
 
-
-
-
-
 #Enter Knapsack bag weight, number of items to choose from, their weights and Profits
 
 bag_size = int(input("Enter the weight of knapsck"))
