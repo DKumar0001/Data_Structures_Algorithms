@@ -19,6 +19,7 @@ Contains some popular questions based on *bit manipulations*.
 |Check whether a given number n is a power of 2 or 0                            |[py](Bit_Manipulation/Check_Power2.py)         |[cpp](Bit_Manipulation/Check_Power2.cpp)
 |Count number of bits needed to be flipped to convert A to B                    |[py](Bit_Manipulation/Count_bitFlips.py)         |[cpp](Bit_Manipulation/Cout_bitFlips.cpp)
 |Find the two non-repeating elements in an array of repeating elements          |[py](Bit_Manipulation/Non_repeating.py)         |[cpp](Bit_Manipulation/Non_Repeating_elements.cpp)      
+|Find the next greater and next smaller number with same number of set bits       |[py](Bit_Manipulation/closest_Numbers.py)         |[cpp](Bit_Manipulation/closest_Numbers.cpp)      
 ------------------------------------------------------------------------------
 ### Dynamic Programming
 
