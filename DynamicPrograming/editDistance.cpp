@@ -7,16 +7,14 @@ for example converting string1= "sunday" to string2 = "saturday" takes 3 steps, 
 #include <vector>
 using namespace std;
 
-
+//finding minium of three given values
 int min(int x, int y, int z) { return min(min(x, y), z); }
+
 // Defining number of operations needed
-
-
 int edit_distance(string str1, string str2){
 
 int n = str1.size();
 int m = str2.size();
-
 cout<<n<<m<<endl;
 int distanceMatrix[n+1][m+1];
 
@@ -40,7 +38,7 @@ for (int i = 0; i<=n; i++){
 return distanceMatrix[n][m];
 }
 
-
+//main Function
 int main(){
 
   string str1 = "sunday";
